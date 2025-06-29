@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/bigdata/Escritorio/SparkStreaming/codigo-sparkinvoice/build.sbt","83bd0b6e64f31c5bb4607b9db6ef9980006ff555"],["/home/bigdata/Escritorio/SparkStreaming/codigo-sparkinvoice/project/plugins.sbt","f041c30515dc3e5db108bf315ffb31b27cc35f4c"]],"lastModifiedTimes":[]}]
